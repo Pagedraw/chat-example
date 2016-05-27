@@ -94,7 +94,7 @@ module.exports = ->
                 }
                 
                 .layout-23726467625238 {
-                  height: 461px;
+                  height: 467px;
                   overflow: scroll;
                   margin-left: 0px;
                   background: rgba(120, 224, 143, 0);
