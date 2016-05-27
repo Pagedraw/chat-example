@@ -46,6 +46,7 @@ module.exports = ->
                 .layout-08353520324453712 {
                   padding-bottom: 0px;
                   background: rgb(249, 249, 249);
+                  min-height: 100vh;
                 }
                 
                 .b-0-0-0 {
@@ -99,12 +100,12 @@ module.exports = ->
                   background: rgba(120, 224, 143, 0);
                 }
                 
-                .b-0-0-0-0-2-0-0 {
-                  margin-top: 0px;
-                }
-                
                 .layout-8029568244237453 {
                   background: rgb(255, 255, 255);
+                }
+                
+                .b-0-0-0-0-2-0-0-0-0 {
+                  margin-top: 0px;
                 }
                 
                 .text-3335099802352488 {
@@ -124,12 +125,12 @@ module.exports = ->
                   text-decoration: none;
                 }
                 
-                .b-0-0-0-0-2-0-1 {
-                  margin-top: 0px;
-                }
-                
                 .layout-2651568634901196 {
                   background: rgb(70, 70, 226);
+                }
+                
+                .b-0-0-0-0-2-0-1-0-0 {
+                  margin-top: 0px;
                 }
                 
                 .text-7413130439817905 {
@@ -150,12 +151,12 @@ module.exports = ->
                   text-decoration: none;
                 }
                 
-                .b-0-0-0-0-2-0-2 {
-                  margin-top: 0px;
-                }
-                
                 .layout-39971370808780193 {
                   background: rgb(255, 255, 255);
+                }
+                
+                .b-0-0-0-0-2-0-2-0-0 {
+                  margin-top: 0px;
                 }
                 
                 .text-9043067311868072 {
@@ -211,6 +212,10 @@ module.exports = ->
                 
                 .layout-5435412819497287 {
                   background: rgba(0, 0, 255, 0);
+                }
+                
+                .b-0-0-0-1-0-0-0-0-0 {
+                  margin-top: 0px;
                 }
                 
                 .layout-5799315865151584 {
@@ -326,17 +331,17 @@ module.exports = ->
                       width: 324px;
                     }
                     
+                    .b-0-0-0-0-2-0-0 {
+                      margin-top: 9px;
+                    }
+                    
                     .layout-8029568244237453-wrapper {
                       margin-left: 0px;
                       width: 323px;
                     }
                     
                     .layout-8029568244237453 {
-                      padding-bottom: 16px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-0-0-0 {
-                      margin-top: 9px;
+                      padding-bottom: 13px;
                     }
                     
                     .text-3335099802352488 {
@@ -353,17 +358,17 @@ module.exports = ->
                       width: 292px;
                     }
                     
+                    .b-0-0-0-0-2-0-1 {
+                      margin-top: 7px;
+                    }
+                    
                     .layout-2651568634901196-wrapper {
                       margin-left: 0px;
                       width: 323px;
                     }
                     
                     .layout-2651568634901196 {
-                      padding-bottom: 16px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-1-0-0 {
-                      margin-top: 7px;
+                      padding-bottom: 13px;
                     }
                     
                     .text-7413130439817905 {
@@ -380,17 +385,17 @@ module.exports = ->
                       width: 292px;
                     }
                     
+                    .b-0-0-0-0-2-0-2 {
+                      margin-top: 7px;
+                    }
+                    
                     .layout-39971370808780193-wrapper {
                       margin-left: 0px;
                       width: 323px;
                     }
                     
                     .layout-39971370808780193 {
-                      padding-bottom: 16px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-2-0-0 {
-                      margin-top: 7px;
+                      padding-bottom: 13px;
                     }
                     
                     .text-9043067311868072 {
@@ -433,7 +438,7 @@ module.exports = ->
                     }
                     
                     .b-0-0-0-1-0-0-0 {
-                      margin-top: 0px;
+                      margin-top: 1px;
                     }
                     
                     .layout-5435412819497287-wrapper {
@@ -442,11 +447,7 @@ module.exports = ->
                     }
                     
                     .layout-5435412819497287 {
-                      padding-bottom: 28.5px;
-                    }
-                    
-                    .b-0-0-0-1-0-0-0-0-0 {
-                      margin-top: 0px;
+                      padding-bottom: 27px;
                     }
                     
                     .layout-5799315865151584-wrapper {
@@ -552,6 +553,10 @@ module.exports = ->
                       width: 420px;
                     }
                     
+                    .b-0-0-0-0-2-0-0 {
+                      margin-top: 12px;
+                    }
+                    
                     .layout-8029568244237453-wrapper {
                       margin-left: 1px;
                       width: 419px;
@@ -559,10 +564,6 @@ module.exports = ->
                     
                     .layout-8029568244237453 {
                       padding-bottom: 11px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-0-0-0 {
-                      margin-top: 12px;
                     }
                     
                     .text-3335099802352488 {
@@ -579,6 +580,10 @@ module.exports = ->
                       width: 380px;
                     }
                     
+                    .b-0-0-0-0-2-0-1 {
+                      margin-top: 10px;
+                    }
+                    
                     .layout-2651568634901196-wrapper {
                       margin-left: 1px;
                       width: 419px;
@@ -586,10 +591,6 @@ module.exports = ->
                     
                     .layout-2651568634901196 {
                       padding-bottom: 11px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-1-0-0 {
-                      margin-top: 10px;
                     }
                     
                     .text-7413130439817905 {
@@ -606,6 +607,10 @@ module.exports = ->
                       width: 380px;
                     }
                     
+                    .b-0-0-0-0-2-0-2 {
+                      margin-top: 10px;
+                    }
+                    
                     .layout-39971370808780193-wrapper {
                       margin-left: 1px;
                       width: 419px;
@@ -613,10 +618,6 @@ module.exports = ->
                     
                     .layout-39971370808780193 {
                       padding-bottom: 11px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-2-0-0 {
-                      margin-top: 10px;
                     }
                     
                     .text-9043067311868072 {
@@ -659,7 +660,7 @@ module.exports = ->
                     }
                     
                     .b-0-0-0-1-0-0-0 {
-                      margin-top: 1px;
+                      margin-top: 2px;
                     }
                     
                     .layout-5435412819497287-wrapper {
@@ -668,11 +669,7 @@ module.exports = ->
                     }
                     
                     .layout-5435412819497287 {
-                      padding-bottom: 27px;
-                    }
-                    
-                    .b-0-0-0-1-0-0-0-0-0 {
-                      margin-top: 1px;
+                      padding-bottom: 26px;
                     }
                     
                     .layout-5799315865151584-wrapper {
@@ -691,7 +688,7 @@ module.exports = ->
                     }
                     
                     .b-0-0-0-1-0-0-0-0-1 {
-                      margin-top: 1.5px;
+                      margin-top: 2px;
                     }
                     
                     .layout-2984442999586463-wrapper {
@@ -778,17 +775,17 @@ module.exports = ->
                       width: 506px;
                     }
                     
+                    .b-0-0-0-0-2-0-0 {
+                      margin-top: 14px;
+                    }
+                    
                     .layout-8029568244237453-wrapper {
                       margin-left: 1px;
                       width: 504px;
                     }
                     
                     .layout-8029568244237453 {
-                      padding-bottom: 8px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-0-0-0 {
-                      margin-top: 14px;
+                      padding-bottom: 10px;
                     }
                     
                     .text-3335099802352488 {
@@ -805,17 +802,17 @@ module.exports = ->
                       width: 457px;
                     }
                     
+                    .b-0-0-0-0-2-0-1 {
+                      margin-top: 12px;
+                    }
+                    
                     .layout-2651568634901196-wrapper {
                       margin-left: 1px;
                       width: 504px;
                     }
                     
                     .layout-2651568634901196 {
-                      padding-bottom: 8px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-1-0-0 {
-                      margin-top: 12px;
+                      padding-bottom: 10px;
                     }
                     
                     .text-7413130439817905 {
@@ -832,17 +829,17 @@ module.exports = ->
                       width: 457px;
                     }
                     
+                    .b-0-0-0-0-2-0-2 {
+                      margin-top: 12px;
+                    }
+                    
                     .layout-39971370808780193-wrapper {
                       margin-left: 1px;
                       width: 504px;
                     }
                     
                     .layout-39971370808780193 {
-                      padding-bottom: 8px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-2-0-0 {
-                      margin-top: 12px;
+                      padding-bottom: 10px;
                     }
                     
                     .text-9043067311868072 {
@@ -885,7 +882,7 @@ module.exports = ->
                     }
                     
                     .b-0-0-0-1-0-0-0 {
-                      margin-top: 1px;
+                      margin-top: 2px;
                     }
                     
                     .layout-5435412819497287-wrapper {
@@ -894,11 +891,7 @@ module.exports = ->
                     }
                     
                     .layout-5435412819497287 {
-                      padding-bottom: 27.5px;
-                    }
-                    
-                    .b-0-0-0-1-0-0-0-0-0 {
-                      margin-top: 1px;
+                      padding-bottom: 26px;
                     }
                     
                     .layout-5799315865151584-wrapper {
@@ -917,7 +910,7 @@ module.exports = ->
                     }
                     
                     .b-0-0-0-1-0-0-0-0-1 {
-                      margin-top: 1px;
+                      margin-top: 2px;
                     }
                     
                     .layout-2984442999586463-wrapper {
