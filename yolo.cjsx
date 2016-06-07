@@ -63,11 +63,8 @@ module.exports = ->
                 }
                 
                 .layout-9600007883548838 {
+                  min-height: 472px;
                   background: rgb(129, 189, 88);
-                }
-                
-                .youtube-2651750319181263 {
-                  min-height: 336px;
                 }
                 
                 .layout-10799499118267408 {
@@ -88,7 +85,7 @@ module.exports = ->
                     .layout-9100861182922997 {
                       padding-bottom: 158px;
                       margin-left: 16px;
-                      width: 390px;
+                      width: 391px;
                     }
                     
                     .b-0-0-0 {
@@ -120,18 +117,8 @@ module.exports = ->
                     }
                     
                     .layout-9600007883548838 {
-                      padding-bottom: 84px;
                       margin-left: NaNpx;
                       width: 309px;
-                    }
-                    
-                    .b-0-1-0-0-0 {
-                      margin-top: 52px;
-                    }
-                    
-                    .youtube-2651750319181263 {
-                      margin-left: 18px;
-                      width: 285px;
                     }
                     
                     .b-0-1-1 {
@@ -165,7 +152,7 @@ module.exports = ->
                     .layout-9100861182922997 {
                       padding-bottom: 145px;
                       margin-left: 21px;
-                      width: 505.5px;
+                      width: 506px;
                     }
                     
                     .b-0-0-0 {
@@ -173,7 +160,7 @@ module.exports = ->
                     }
                     
                     .text-103859890274687 {
-                      margin-left: 25.25px;
+                      margin-left: 25px;
                       width: 455px;
                     }
                     
@@ -182,13 +169,13 @@ module.exports = ->
                     }
                     
                     .image-09733221250336732 {
-                      margin-left: 32.25px;
+                      margin-left: 32px;
                       width: 362px;
                     }
                     
                     .layout-5253717507385545 {
                       padding-bottom: 26px;
-                      margin-left: 22.5px;
+                      margin-left: 22px;
                       width: 400px;
                     }
                     
@@ -197,18 +184,8 @@ module.exports = ->
                     }
                     
                     .layout-9600007883548838 {
-                      padding-bottom: 68px;
                       margin-left: 0px;
                       width: 400px;
-                    }
-                    
-                    .b-0-1-0-0-0 {
-                      margin-top: 68px;
-                    }
-                    
-                    .youtube-2651750319181263 {
-                      margin-left: 24px;
-                      width: 369px;
                     }
                     
                     .b-0-1-1 {
@@ -242,7 +219,7 @@ module.exports = ->
                     .layout-9100861182922997 {
                       padding-bottom: 136px;
                       margin-left: 25px;
-                      width: 609px;
+                      width: 610px;
                     }
                     
                     .b-0-0-0 {
@@ -265,7 +242,7 @@ module.exports = ->
                     
                     .layout-5253717507385545 {
                       padding-bottom: 4px;
-                      margin-left: 27px;
+                      margin-left: 26px;
                       width: 482px;
                     }
                     
@@ -274,18 +251,8 @@ module.exports = ->
                     }
                     
                     .layout-9600007883548838 {
-                      padding-bottom: 55px;
                       margin-left: NaNpx;
                       width: 482px;
-                    }
-                    
-                    .b-0-1-0-0-0 {
-                      margin-top: 81px;
-                    }
-                    
-                    .youtube-2651750319181263 {
-                      margin-left: 28px;
-                      width: 444px;
                     }
                     
                     .b-0-1-1 {
@@ -345,7 +312,7 @@ module.exports = ->
                 <div className="column layout-9100861182922997">
                     <div className="section b-0-0-0">
                         <div className="column text-103859890274687">
-                            <div>lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lot fos&nbsp;of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots&nbsp;of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my.</div><div><br></div><div>Foo bar</div><div><br></div><div><br></div><div>Bazy baz</div><div>Wow, that is a LOT of text. &nbsp;I mean just wow. &nbsp;Dude.</div>
+                            <div>lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lot fos&nbsp;of text so  text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots&nbsp;of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my&nbsp;lots and lots of text so much text oh my.</div><div><br></div><div>YOLO#YOLO</div>
                         </div>
                     </div>
                     <div className="section b-0-0-1">
@@ -355,11 +322,7 @@ module.exports = ->
                 <div className="column layout-5253717507385545">
                     <div className="section b-0-1-0">
                         <div className="column layout-9600007883548838">
-                            <div className="section b-0-1-0-0-0">
-                                <iframe type="text/html" src="https://www.youtube.com/embed/QH2-TGUlwu4?autoplay=0" frameBorder="0" className="column youtube-2651750319181263">
-                                    
-                                </iframe>
-                            </div>
+                            
                         </div>
                     </div>
                     <div className="section b-0-1-1">
