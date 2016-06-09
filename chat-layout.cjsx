@@ -1,6 +1,6 @@
 React = require('react')
 module.exports = ->
-    <div className="full-width">
+    <div className="full-width b-6030743127720293">
         <span>
             <style dangerouslySetInnerHTML={__html: """
                 * {
@@ -39,18 +39,15 @@ module.exports = ->
                     }
                 }
                 
-                .b-0 {
-                  margin-top: 0px;
+                .b-6030743127720293 {
+                  padding-top: 0px;
                 }
                 
                 .layout-08353520324453712 {
                   padding-bottom: 0px;
+                  padding-top: 0px;
                   background: rgb(249, 249, 249);
                   min-height: 100vh;
-                }
-                
-                .b-0-0-0 {
-                  margin-top: 0px;
                 }
                 
                 .text-7602901624049991 {
@@ -61,9 +58,10 @@ module.exports = ->
                   font-style: normal;
                   text-decoration: none;
                   text-align: center;
+                  word-wrap: break-word;
                 }
                 
-                .b-0-0-0-0-0-1 {
+                .b-0-0-0-0-0-1-47324987925240913 {
                   margin-left: 0px;
                 }
                 
@@ -74,34 +72,29 @@ module.exports = ->
                   font-style: normal;
                   text-decoration: none;
                   text-align: center;
+                  word-wrap: break-word;
                 }
                 
                 .layout-03296710201539099 {
                   padding-bottom: 10px;
+                  padding-top: 0px;
                   background: rgba(255, 255, 255, 0);
-                }
-                
-                .b-0-0-0-0-1-0-0 {
-                  margin-top: 0px;
                 }
                 
                 .textinput-6946118122432381 {
                   min-height: 29px;
                 }
                 
-                .b-0-0-0-0-2 {
+                .b-0-0-0-0-2-47182929618837366 {
                   margin-top: 0px;
                 }
                 
                 .layout-23726467625238 {
                   height: 467px;
                   overflow: scroll;
+                  padding-top: 0px;
                   margin-left: 0px;
                   background: rgba(120, 224, 143, 0);
-                }
-                
-                .b-0-0-0-0-2-0-0 {
-                  margin-top: 0px;
                 }
                 
                 .layout-8029568244237453 {
@@ -114,6 +107,7 @@ module.exports = ->
                   font-weight: bold;
                   font-style: normal;
                   text-decoration: none;
+                  word-wrap: break-word;
                 }
                 
                 .text-13466836605221033 {
@@ -123,9 +117,10 @@ module.exports = ->
                   font-weight: normal;
                   font-style: normal;
                   text-decoration: none;
+                  word-wrap: break-word;
                 }
                 
-                .b-0-0-0-0-2-0-1 {
+                .b-0-0-0-0-2-0-1-10771040233599116 {
                   margin-top: 0px;
                 }
                 
@@ -140,6 +135,7 @@ module.exports = ->
                   font-weight: bold;
                   font-style: normal;
                   text-decoration: none;
+                  word-wrap: break-word;
                 }
                 
                 .text-37471523392014205 {
@@ -149,9 +145,10 @@ module.exports = ->
                   font-weight: normal;
                   font-style: normal;
                   text-decoration: none;
+                  word-wrap: break-word;
                 }
                 
-                .b-0-0-0-0-2-0-2 {
+                .b-0-0-0-0-2-0-2-03261626903972514 {
                   margin-top: 0px;
                 }
                 
@@ -165,6 +162,7 @@ module.exports = ->
                   font-weight: bold;
                   font-style: normal;
                   text-decoration: none;
+                  word-wrap: break-word;
                 }
                 
                 .text-26857492281123996 {
@@ -174,15 +172,13 @@ module.exports = ->
                   font-weight: normal;
                   font-style: normal;
                   text-decoration: none;
+                  word-wrap: break-word;
                 }
                 
                 .layout-208447725744918 {
                   padding-bottom: 8px;
+                  padding-top: 0px;
                   background: rgba(0, 0, 255, 0);
-                }
-                
-                .b-0-0-0-0-2-0-3-0-0 {
-                  margin-top: 0px;
                 }
                 
                 .text-8387807214166969 {
@@ -194,14 +190,12 @@ module.exports = ->
                   font-style: normal;
                   text-decoration: none;
                   text-align: center;
+                  word-wrap: break-word;
                 }
                 
                 .layout-9589062156155705 {
+                  padding-top: 0px;
                   background: rgb(255, 255, 255);
-                }
-                
-                .b-0-0-0-1-0 {
-                  margin-top: 0px;
                 }
                 
                 .layout-15342953731305897 {
@@ -211,20 +205,14 @@ module.exports = ->
                 }
                 
                 .layout-5435412819497287 {
+                  padding-top: 0px;
                   background: rgba(0, 0, 255, 0);
-                }
-                
-                .b-0-0-0-1-0-0-0-0-0 {
-                  margin-top: 0px;
                 }
                 
                 .layout-5799315865151584 {
                   padding-bottom: 2px;
+                  padding-top: 0px;
                   background: rgba(0, 0, 255, 0);
-                }
-                
-                .b-0-0-0-1-0-0-0-0-0-0-0 {
-                  margin-top: 0px;
                 }
                 
                 .image-5310311480425298 {
@@ -238,15 +226,13 @@ module.exports = ->
                   font-weight: normal;
                   font-style: normal;
                   text-decoration: none;
+                  word-wrap: break-word;
                 }
                 
                 .layout-2984442999586463 {
                   padding-bottom: 2px;
+                  padding-top: 0px;
                   background: rgba(0, 0, 255, 0);
-                }
-                
-                .b-0-0-0-1-0-0-0-0-1-0-0 {
-                  margin-top: 0px;
                 }
                 
                 .text-48297540191560984 {
@@ -259,6 +245,7 @@ module.exports = ->
                   font-style: normal;
                   text-decoration: none;
                   text-align: right;
+                  word-wrap: break-word;
                 }
                 
                 .image-347623224504785 {
@@ -278,6 +265,7 @@ module.exports = ->
                   font-style: normal;
                   text-decoration: none;
                   text-align: center;
+                  word-wrap: break-word;
                 }
                 
                 @media (min-width: 750px) and (max-width: 970px) {
@@ -286,13 +274,10 @@ module.exports = ->
                       width: 750px;
                     }
                     
-                    .b-0-0-0-0 {
+                    .b-0-0-0-0-8495181332811859 {
+                      padding-top: 23px;
                       margin-left: NaNpx;
                       width: 326px;
-                    }
-                    
-                    .b-0-0-0-0-0 {
-                      margin-top: 23px;
                     }
                     
                     .text-7602901624049991 {
@@ -300,12 +285,9 @@ module.exports = ->
                       width: 222px;
                     }
                     
-                    .b-0-0-0-0-0-1 {
+                    .b-0-0-0-0-0-1-47324987925240913 {
+                      padding-top: 2px;
                       width: 30px;
-                    }
-                    
-                    .b-0-0-0-0-0-1-0 {
-                      margin-top: 2px;
                     }
                     
                     .text-7810793896205723 {
@@ -313,7 +295,7 @@ module.exports = ->
                       width: 30px;
                     }
                     
-                    .b-0-0-0-0-1 {
+                    .b-0-0-0-0-1-42586199692748683 {
                       margin-top: 7px;
                     }
                     
@@ -338,10 +320,7 @@ module.exports = ->
                     
                     .layout-8029568244237453 {
                       padding-bottom: 16px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-0-0-0 {
-                      margin-top: 9px;
+                      padding-top: 9px;
                     }
                     
                     .text-3335099802352488 {
@@ -349,7 +328,7 @@ module.exports = ->
                       width: 297px;
                     }
                     
-                    .b-0-0-0-0-2-0-0-0-1 {
+                    .b-0-0-0-0-2-0-0-0-1-45117714103724293 {
                       margin-top: 3px;
                     }
                     
@@ -365,10 +344,7 @@ module.exports = ->
                     
                     .layout-2651568634901196 {
                       padding-bottom: 16px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-1-0-0 {
-                      margin-top: 7px;
+                      padding-top: 7px;
                     }
                     
                     .text-7413130439817905 {
@@ -376,7 +352,7 @@ module.exports = ->
                       width: 297px;
                     }
                     
-                    .b-0-0-0-0-2-0-1-0-1 {
+                    .b-0-0-0-0-2-0-1-0-1-7792744908376319 {
                       margin-top: 3px;
                     }
                     
@@ -392,10 +368,7 @@ module.exports = ->
                     
                     .layout-39971370808780193 {
                       padding-bottom: 16px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-2-0-0 {
-                      margin-top: 7px;
+                      padding-top: 7px;
                     }
                     
                     .text-9043067311868072 {
@@ -403,7 +376,7 @@ module.exports = ->
                       width: 297px;
                     }
                     
-                    .b-0-0-0-0-2-0-2-0-1 {
+                    .b-0-0-0-0-2-0-2-0-1-1472020201844404 {
                       margin-top: 3px;
                     }
                     
@@ -412,7 +385,7 @@ module.exports = ->
                       width: 292px;
                     }
                     
-                    .b-0-0-0-0-2-0-3 {
+                    .b-0-0-0-0-2-0-3-48499459342083573 {
                       margin-top: 10px;
                     }
                     
@@ -433,12 +406,9 @@ module.exports = ->
                     }
                     
                     .layout-15342953731305897 {
+                      padding-top: 1px;
                       margin-left: NaNpx;
                       width: 423px;
-                    }
-                    
-                    .b-0-0-0-1-0-0-0 {
-                      margin-top: 1px;
                     }
                     
                     .layout-5435412819497287-wrapper {
@@ -465,7 +435,7 @@ module.exports = ->
                       width: 293px;
                     }
                     
-                    .b-0-0-0-1-0-0-0-0-1 {
+                    .b-0-0-0-1-0-0-0-0-1-9613740843720493 {
                       margin-top: 1px;
                     }
                     
@@ -484,7 +454,7 @@ module.exports = ->
                       width: 61px;
                     }
                     
-                    .b-0-0-0-1-1 {
+                    .b-0-0-0-1-1-7826271423122033 {
                       margin-top: 2px;
                     }
                     
@@ -508,13 +478,10 @@ module.exports = ->
                       width: 970px;
                     }
                     
-                    .b-0-0-0-0 {
+                    .b-0-0-0-0-8495181332811859 {
+                      padding-top: 31px;
                       margin-left: 0px;
                       width: 422px;
-                    }
-                    
-                    .b-0-0-0-0-0 {
-                      margin-top: 31px;
                     }
                     
                     .text-7602901624049991 {
@@ -522,12 +489,9 @@ module.exports = ->
                       width: 288px;
                     }
                     
-                    .b-0-0-0-0-0-1 {
+                    .b-0-0-0-0-0-1-47324987925240913 {
+                      padding-top: 3px;
                       width: 39px;
-                    }
-                    
-                    .b-0-0-0-0-0-1-0 {
-                      margin-top: 3px;
                     }
                     
                     .text-7810793896205723 {
@@ -535,7 +499,7 @@ module.exports = ->
                       width: 39px;
                     }
                     
-                    .b-0-0-0-0-1 {
+                    .b-0-0-0-0-1-42586199692748683 {
                       margin-top: 10px;
                     }
                     
@@ -560,10 +524,7 @@ module.exports = ->
                     
                     .layout-8029568244237453 {
                       padding-bottom: 11px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-0-0-0 {
-                      margin-top: 12px;
+                      padding-top: 12px;
                     }
                     
                     .text-3335099802352488 {
@@ -571,7 +532,7 @@ module.exports = ->
                       width: 386px;
                     }
                     
-                    .b-0-0-0-0-2-0-0-0-1 {
+                    .b-0-0-0-0-2-0-0-0-1-45117714103724293 {
                       margin-top: 5px;
                     }
                     
@@ -587,10 +548,7 @@ module.exports = ->
                     
                     .layout-2651568634901196 {
                       padding-bottom: 11px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-1-0-0 {
-                      margin-top: 10px;
+                      padding-top: 10px;
                     }
                     
                     .text-7413130439817905 {
@@ -598,7 +556,7 @@ module.exports = ->
                       width: 386px;
                     }
                     
-                    .b-0-0-0-0-2-0-1-0-1 {
+                    .b-0-0-0-0-2-0-1-0-1-7792744908376319 {
                       margin-top: 5px;
                     }
                     
@@ -614,10 +572,7 @@ module.exports = ->
                     
                     .layout-39971370808780193 {
                       padding-bottom: 11px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-2-0-0 {
-                      margin-top: 10px;
+                      padding-top: 10px;
                     }
                     
                     .text-9043067311868072 {
@@ -625,7 +580,7 @@ module.exports = ->
                       width: 386px;
                     }
                     
-                    .b-0-0-0-0-2-0-2-0-1 {
+                    .b-0-0-0-0-2-0-2-0-1-1472020201844404 {
                       margin-top: 5px;
                     }
                     
@@ -634,7 +589,7 @@ module.exports = ->
                       width: 380px;
                     }
                     
-                    .b-0-0-0-0-2-0-3 {
+                    .b-0-0-0-0-2-0-3-48499459342083573 {
                       margin-top: 14px;
                     }
                     
@@ -655,12 +610,9 @@ module.exports = ->
                     }
                     
                     .layout-15342953731305897 {
+                      padding-top: 2px;
                       margin-left: 0px;
                       width: 548px;
-                    }
-                    
-                    .b-0-0-0-1-0-0-0 {
-                      margin-top: 2px;
                     }
                     
                     .layout-5435412819497287-wrapper {
@@ -687,7 +639,7 @@ module.exports = ->
                       width: 381px;
                     }
                     
-                    .b-0-0-0-1-0-0-0-0-1 {
+                    .b-0-0-0-1-0-0-0-0-1-9613740843720493 {
                       margin-top: 2px;
                     }
                     
@@ -706,7 +658,7 @@ module.exports = ->
                       width: 80px;
                     }
                     
-                    .b-0-0-0-1-1 {
+                    .b-0-0-0-1-1-7826271423122033 {
                       margin-top: 3px;
                     }
                     
@@ -730,13 +682,10 @@ module.exports = ->
                       width: 1170px;
                     }
                     
-                    .b-0-0-0-0 {
+                    .b-0-0-0-0-8495181332811859 {
+                      padding-top: 37px;
                       margin-left: NaNpx;
                       width: 509px;
-                    }
-                    
-                    .b-0-0-0-0-0 {
-                      margin-top: 37px;
                     }
                     
                     .text-7602901624049991 {
@@ -744,12 +693,9 @@ module.exports = ->
                       width: 347px;
                     }
                     
-                    .b-0-0-0-0-0-1 {
+                    .b-0-0-0-0-0-1-47324987925240913 {
+                      padding-top: 3px;
                       width: 47px;
-                    }
-                    
-                    .b-0-0-0-0-0-1-0 {
-                      margin-top: 3px;
                     }
                     
                     .text-7810793896205723 {
@@ -757,7 +703,7 @@ module.exports = ->
                       width: 47px;
                     }
                     
-                    .b-0-0-0-0-1 {
+                    .b-0-0-0-0-1-42586199692748683 {
                       margin-top: 12px;
                     }
                     
@@ -782,10 +728,7 @@ module.exports = ->
                     
                     .layout-8029568244237453 {
                       padding-bottom: 8px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-0-0-0 {
-                      margin-top: 14px;
+                      padding-top: 14px;
                     }
                     
                     .text-3335099802352488 {
@@ -793,7 +736,7 @@ module.exports = ->
                       width: 464px;
                     }
                     
-                    .b-0-0-0-0-2-0-0-0-1 {
+                    .b-0-0-0-0-2-0-0-0-1-45117714103724293 {
                       margin-top: 6px;
                     }
                     
@@ -809,10 +752,7 @@ module.exports = ->
                     
                     .layout-2651568634901196 {
                       padding-bottom: 8px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-1-0-0 {
-                      margin-top: 12px;
+                      padding-top: 12px;
                     }
                     
                     .text-7413130439817905 {
@@ -820,7 +760,7 @@ module.exports = ->
                       width: 464px;
                     }
                     
-                    .b-0-0-0-0-2-0-1-0-1 {
+                    .b-0-0-0-0-2-0-1-0-1-7792744908376319 {
                       margin-top: 6px;
                     }
                     
@@ -836,10 +776,7 @@ module.exports = ->
                     
                     .layout-39971370808780193 {
                       padding-bottom: 8px;
-                    }
-                    
-                    .b-0-0-0-0-2-0-2-0-0 {
-                      margin-top: 12px;
+                      padding-top: 12px;
                     }
                     
                     .text-9043067311868072 {
@@ -847,7 +784,7 @@ module.exports = ->
                       width: 464px;
                     }
                     
-                    .b-0-0-0-0-2-0-2-0-1 {
+                    .b-0-0-0-0-2-0-2-0-1-1472020201844404 {
                       margin-top: 6px;
                     }
                     
@@ -856,7 +793,7 @@ module.exports = ->
                       width: 457px;
                     }
                     
-                    .b-0-0-0-0-2-0-3 {
+                    .b-0-0-0-0-2-0-3-48499459342083573 {
                       margin-top: 16px;
                     }
                     
@@ -877,12 +814,9 @@ module.exports = ->
                     }
                     
                     .layout-15342953731305897 {
+                      padding-top: 2px;
                       margin-left: NaNpx;
                       width: 660px;
-                    }
-                    
-                    .b-0-0-0-1-0-0-0 {
-                      margin-top: 2px;
                     }
                     
                     .layout-5435412819497287-wrapper {
@@ -909,7 +843,7 @@ module.exports = ->
                       width: 458px;
                     }
                     
-                    .b-0-0-0-1-0-0-0-0-1 {
+                    .b-0-0-0-1-0-0-0-0-1-9613740843720493 {
                       margin-top: 2px;
                     }
                     
@@ -928,7 +862,7 @@ module.exports = ->
                       width: 96px;
                     }
                     
-                    .b-0-0-0-1-1 {
+                    .b-0-0-0-1-1-7826271423122033 {
                       margin-top: 3px;
                     }
                     
@@ -975,28 +909,28 @@ module.exports = ->
                 }
                 """}/>
         </span>
-        <div className="section full-width b-0">
+        <div className="section full-width b-0-9431395725224812">
             <div className="column full-width layout-08353520324453712">
-                <div className="section b-0-0-0">
+                <div className="section b-0-0-0-3467858980079419">
                     <div className="content">
-                        <div className="column b-0-0-0-0">
-                            <div className="section b-0-0-0-0-0">
+                        <div className="column b-0-0-0-0-8495181332811859">
+                            <div className="section b-0-0-0-0-0-733604539049922">
                                 <div className="column text-7602901624049991">
                                     <div>Chat</div>
                                 </div>
-                                <div className="column b-0-0-0-0-0-1">
-                                    <div className="section b-0-0-0-0-0-1-0">
+                                <div className="column b-0-0-0-0-0-1-47324987925240913">
+                                    <div className="section b-0-0-0-0-0-1-0-6544355916493587">
                                         <div className="column text-7810793896205723" onClick={this.toggleSearch}>
                                             <div>🔍</div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="section b-0-0-0-0-1">
+                            <div className="section b-0-0-0-0-1-42586199692748683">
                                 <div className="column layout-03296710201539099-wrapper">
                                     { this.showingSearch().map (x) =>
                                         <div className="section list-item layout-03296710201539099">
-                                            <div className="section b-0-0-0-0-1-0-0">
+                                            <div className="section b-0-0-0-0-1-0-0-22838196862545157">
                                                 <input placeholder="search..." ref="::query" className="column textinput-6946118122432381" valueLink={this.linkState('query')}>
                                                     
                                                 </input>
@@ -1005,18 +939,18 @@ module.exports = ->
                                     }
                                 </div>
                             </div>
-                            <div className="section b-0-0-0-0-2">
+                            <div className="section b-0-0-0-0-2-47182929618837366">
                                 <div className="column layout-23726467625238">
-                                    <div className="section b-0-0-0-0-2-0-0">
+                                    <div className="section b-0-0-0-0-2-0-0-04767726671213368">
                                         <div className="column layout-8029568244237453-wrapper">
                                             { this.getItemsPre().map (item) =>
                                                 <div className="section list-item layout-8029568244237453" onClick={=> @selectItem(item.index)}>
-                                                    <div className="section b-0-0-0-0-2-0-0-0-0">
+                                                    <div className="section b-0-0-0-0-2-0-0-0-0-5942849833060857">
                                                         <div className="column text-3335099802352488">
                                                             <div>{ item.title }</div>
                                                         </div>
                                                     </div>
-                                                    <div className="section b-0-0-0-0-2-0-0-0-1">
+                                                    <div className="section b-0-0-0-0-2-0-0-0-1-45117714103724293">
                                                         <div className="column text-13466836605221033">
                                                             <div>{ item.subtitle }</div>
                                                         </div>
@@ -1025,16 +959,16 @@ module.exports = ->
                                             }
                                         </div>
                                     </div>
-                                    <div className="section b-0-0-0-0-2-0-1">
+                                    <div className="section b-0-0-0-0-2-0-1-10771040233599116">
                                         <div className="column layout-2651568634901196-wrapper">
                                             { this.getSelected().map (item) =>
                                                 <div className="section list-item layout-2651568634901196">
-                                                    <div className="section b-0-0-0-0-2-0-1-0-0">
+                                                    <div className="section b-0-0-0-0-2-0-1-0-0-24793857229025384">
                                                         <div className="column text-7413130439817905">
                                                             <div>{ item.title }</div>
                                                         </div>
                                                     </div>
-                                                    <div className="section b-0-0-0-0-2-0-1-0-1">
+                                                    <div className="section b-0-0-0-0-2-0-1-0-1-7792744908376319">
                                                         <div className="column text-37471523392014205">
                                                             <div>{ item.subtitle }</div>
                                                         </div>
@@ -1043,16 +977,16 @@ module.exports = ->
                                             }
                                         </div>
                                     </div>
-                                    <div className="section b-0-0-0-0-2-0-2">
+                                    <div className="section b-0-0-0-0-2-0-2-03261626903972514">
                                         <div className="column layout-39971370808780193-wrapper">
                                             { this.getItemsPost().map (item) =>
                                                 <div className="section list-item layout-39971370808780193" onClick={=> @selectItem(item.index)}>
-                                                    <div className="section b-0-0-0-0-2-0-2-0-0">
+                                                    <div className="section b-0-0-0-0-2-0-2-0-0-08499150250010246">
                                                         <div className="column text-9043067311868072">
                                                             <div>{ item.title }</div>
                                                         </div>
                                                     </div>
-                                                    <div className="section b-0-0-0-0-2-0-2-0-1">
+                                                    <div className="section b-0-0-0-0-2-0-2-0-1-1472020201844404">
                                                         <div className="column text-26857492281123996">
                                                             <div>{ item.subtitle }</div>
                                                         </div>
@@ -1061,11 +995,11 @@ module.exports = ->
                                             }
                                         </div>
                                     </div>
-                                    <div className="section b-0-0-0-0-2-0-3">
+                                    <div className="section b-0-0-0-0-2-0-3-48499459342083573">
                                         <div className="column layout-208447725744918-wrapper">
                                             { @hasMore().map (x) =>
                                                 <div className="section list-item layout-208447725744918" onClick={@showMore}>
-                                                    <div className="section b-0-0-0-0-2-0-3-0-0">
+                                                    <div className="section b-0-0-0-0-2-0-3-0-0-34044517360062243">
                                                         <div className="column text-8387807214166969">
                                                             <div>Show More</div>
                                                         </div>
@@ -1078,17 +1012,17 @@ module.exports = ->
                             </div>
                         </div>
                         <div className="column layout-9589062156155705">
-                            <div className="section b-0-0-0-1-0">
+                            <div className="section b-0-0-0-1-0-3687663414897895">
                                 <div className="column layout-15342953731305897">
-                                    <div className="section b-0-0-0-1-0-0-0">
+                                    <div className="section b-0-0-0-1-0-0-0-18914555751415474">
                                         <div className="column layout-5435412819497287-wrapper">
                                             { @state.current_chat.map (message) =>
                                                 <div className="section list-item layout-5435412819497287">
-                                                    <div className="section b-0-0-0-1-0-0-0-0-0">
+                                                    <div className="section b-0-0-0-1-0-0-0-0-0-1558568128647404">
                                                         <div className="column layout-5799315865151584-wrapper">
                                                             { (if not message.isSent then [null] else []).map (x) =>
                                                                 <div className="section list-item layout-5799315865151584">
-                                                                    <div className="section b-0-0-0-1-0-0-0-0-0-0-0">
+                                                                    <div className="section b-0-0-0-1-0-0-0-0-0-0-0-7806269329222038">
                                                                         <img src="https://ucarecdn.com/c82a8181-9ce5-4733-8b34-dc4bc32d8be5/" className="column image-5310311480425298" /> 
                                                                         <div className="column text-0009718092624098063">
                                                                             <div>&nbsp; &nbsp; { message.text }</div>
@@ -1098,11 +1032,11 @@ module.exports = ->
                                                             }
                                                         </div>
                                                     </div>
-                                                    <div className="section b-0-0-0-1-0-0-0-0-1">
+                                                    <div className="section b-0-0-0-1-0-0-0-0-1-9613740843720493">
                                                         <div className="column layout-2984442999586463-wrapper">
                                                             { (if message.isSent then [null] else []).map (x) =>
                                                                 <div className="section list-item layout-2984442999586463">
-                                                                    <div className="section b-0-0-0-1-0-0-0-0-1-0-0">
+                                                                    <div className="section b-0-0-0-1-0-0-0-0-1-0-0-027405006242898766">
                                                                         <div className="column text-48297540191560984">
                                                                             <div>{ message.text } &nbsp;</div>
                                                                         </div>
@@ -1118,7 +1052,7 @@ module.exports = ->
                                     </div>
                                 </div>
                             </div>
-                            <div className="section b-0-0-0-1-1">
+                            <div className="section b-0-0-0-1-1-7826271423122033">
                                 <input ref="::newmessage" className="column textinput-7399486333597451" valueLink={this.linkState('newmessage')}>
                                     
                                 </input>
