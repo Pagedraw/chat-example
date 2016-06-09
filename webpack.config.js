@@ -2,12 +2,12 @@ var path = require('path');
 
 module.exports = {
   entry: {
-    app: ['./main.cjsx']
+    bundle: ['./main.cjsx']
   },
   devtool: "eval",
   output: {
     path: path.join(__dirname, "public"),
-    filename: 'bundle.js'
+    filename: '[name].js'
   },
   resolveLoader: {
     modulesDirectories: ['node_modules'],

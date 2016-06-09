@@ -48,32 +48,33 @@ ChatApp = React.createClass
     toggleSearch: ->
         @setState showSearch: !@state.showSearch
 
+    filter: (items) ->
+        matches = (str) => str.toLowerCase().indexOf(@state.query.toLowerCase()) != -1
+        return _.filter items, (item) -> matches(item.title) or matches(item.subtitle)
+
+
     getItems: ->
-        return @state.items.slice(0, @state.maxShown).map (el, i) -> _.extend({index: i}, el)
+        items = @state.items
+
+        # add indexes
+        e.index = i for e, i in items
+
+        # annotate selection
+        e.selected = (e.index == @state.selectedIndex) for e in items
+
+        # filter items
+        items = @filter(items)
+
+        # get top @state.maxShown
+        items = items.slice(0, @state.maxShown)
+
+        return items
 
     showMore: ->
         @setState maxShown: @state.maxShown += 5
 
     hasMore: ->
-        if @state.maxShown < @state.items.length then [null] else []
-
-    filterItems: (items) ->
-        console.log(@state.query)
-        matches = (str) => str.indexOf(@state.query) != -1
-        return _.filter items, (item) -> matches(item.title) or matches(item.subtitle)
-
-    getItemsPre: ->
-        @filterItems(@getItems().slice(0, @state.selectedIndex))
-
-    getItemsPost: ->
-        @filterItems(@getItems().slice(@state.selectedIndex + 1))
-
-    getSelected: ->
-        if @state.selectedIndex == null
-            return []
-
-        else
-            return @filterItems([@getItems()[@state.selectedIndex]])
+        if @state.maxShown < _.size @filter(@state.items) then [null] else []
 
     selectItem: (index) ->
         @setState selectedIndex: index
