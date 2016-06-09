@@ -1,6 +1,6 @@
 React = require('react')
 module.exports = ->
-    <div className="full-width b-27862876100310796">
+    <div className="full-width b-909527861702004">
         <span>
             <style dangerouslySetInnerHTML={__html: """
                 * {
@@ -39,7 +39,7 @@ module.exports = ->
                     }
                 }
                 
-                .b-27862876100310796 {
+                .b-909527861702004 {
                   padding-top: 0px;
                 }
                 
@@ -61,7 +61,7 @@ module.exports = ->
                   word-wrap: break-word;
                 }
                 
-                .b-0-0-0-0-0-1-9977915348145179 {
+                .b-0-0-0-0-0-1-2000276506520604 {
                   margin-left: 0px;
                 }
                 
@@ -85,7 +85,7 @@ module.exports = ->
                   min-height: 29px;
                 }
                 
-                .b-0-0-0-0-2-05911662127061068 {
+                .b-0-0-0-0-2-6732545024337997 {
                   margin-top: 0px;
                 }
                 
@@ -125,7 +125,7 @@ module.exports = ->
                   word-wrap: break-word;
                 }
                 
-                .b-0-0-0-0-2-0-0-0-1-5876761954084357 {
+                .b-0-0-0-0-2-0-0-0-1-5753738883644537 {
                   margin-top: 0px;
                 }
                 
@@ -153,7 +153,7 @@ module.exports = ->
                   word-wrap: break-word;
                 }
                 
-                .b-0-0-0-0-2-0-1-08795256787421768 {
+                .b-0-0-0-0-2-0-1-9650726465226132 {
                   margin-top: 0px;
                 }
                 
@@ -233,7 +233,7 @@ module.exports = ->
                   background-size: cover;
                 }
                 
-                .b-0-0-0-1-1-9442490039378875 {
+                .b-0-0-0-1-1-426705684389707 {
                   margin-top: 0px;
                 }
                 
@@ -264,7 +264,7 @@ module.exports = ->
                       width: 750px;
                     }
                     
-                    .b-0-0-0-0-848537242211727 {
+                    .b-0-0-0-0-12197828190996285 {
                       padding-top: 23px;
                       margin-left: NaNpx;
                       width: 326px;
@@ -275,7 +275,7 @@ module.exports = ->
                       width: 222px;
                     }
                     
-                    .b-0-0-0-0-0-1-9977915348145179 {
+                    .b-0-0-0-0-0-1-2000276506520604 {
                       padding-top: 2px;
                       width: 30px;
                     }
@@ -285,7 +285,7 @@ module.exports = ->
                       width: 30px;
                     }
                     
-                    .b-0-0-0-0-1-989014371105206 {
+                    .b-0-0-0-0-1-972183653122785 {
                       margin-top: 7px;
                     }
                     
@@ -324,7 +324,7 @@ module.exports = ->
                       width: 298px;
                     }
                     
-                    .b-0-0-0-0-2-0-0-0-0-0-1-603879319242669 {
+                    .b-0-0-0-0-2-0-0-0-0-0-1-15052791264923693 {
                       margin-top: 3px;
                     }
                     
@@ -348,7 +348,7 @@ module.exports = ->
                       width: 298px;
                     }
                     
-                    .b-0-0-0-0-2-0-0-0-1-0-1-9885017200008226 {
+                    .b-0-0-0-0-2-0-0-0-1-0-1-4584578938147106 {
                       margin-top: 3px;
                     }
                     
@@ -407,7 +407,7 @@ module.exports = ->
                       width: 293px;
                     }
                     
-                    .b-0-0-0-1-0-0-0-0-1-4625857288124362 {
+                    .b-0-0-0-1-0-0-0-0-1-08132829904611283 {
                       margin-top: 1px;
                     }
                     
@@ -438,7 +438,7 @@ module.exports = ->
                       width: 348px;
                     }
                     
-                    .b-0-0-0-1-1-0-0-1-03341882937611418 {
+                    .b-0-0-0-1-1-0-0-1-6279898444501908 {
                       padding-top: 2px;
                       margin-left: 6px;
                       width: 40px;
@@ -460,7 +460,7 @@ module.exports = ->
                       width: 970px;
                     }
                     
-                    .b-0-0-0-0-848537242211727 {
+                    .b-0-0-0-0-12197828190996285 {
                       padding-top: 31px;
                       margin-left: 0px;
                       width: 422px;
@@ -471,7 +471,7 @@ module.exports = ->
                       width: 288px;
                     }
                     
-                    .b-0-0-0-0-0-1-9977915348145179 {
+                    .b-0-0-0-0-0-1-2000276506520604 {
                       padding-top: 3px;
                       width: 39px;
                     }
@@ -481,7 +481,7 @@ module.exports = ->
                       width: 39px;
                     }
                     
-                    .b-0-0-0-0-1-989014371105206 {
+                    .b-0-0-0-0-1-972183653122785 {
                       margin-top: 10px;
                     }
                     
@@ -520,7 +520,7 @@ module.exports = ->
                       width: 386px;
                     }
                     
-                    .b-0-0-0-0-2-0-0-0-0-0-1-603879319242669 {
+                    .b-0-0-0-0-2-0-0-0-0-0-1-15052791264923693 {
                       margin-top: 5px;
                     }
                     
@@ -544,7 +544,7 @@ module.exports = ->
                       width: 386px;
                     }
                     
-                    .b-0-0-0-0-2-0-0-0-1-0-1-9885017200008226 {
+                    .b-0-0-0-0-2-0-0-0-1-0-1-4584578938147106 {
                       margin-top: 5px;
                     }
                     
@@ -603,7 +603,7 @@ module.exports = ->
                       width: 381px;
                     }
                     
-                    .b-0-0-0-1-0-0-0-0-1-4625857288124362 {
+                    .b-0-0-0-1-0-0-0-0-1-08132829904611283 {
                       margin-top: 2px;
                     }
                     
@@ -634,7 +634,7 @@ module.exports = ->
                       width: 451px;
                     }
                     
-                    .b-0-0-0-1-1-0-0-1-03341882937611418 {
+                    .b-0-0-0-1-1-0-0-1-6279898444501908 {
                       padding-top: 3px;
                       margin-left: 9px;
                       width: 53px;
@@ -656,7 +656,7 @@ module.exports = ->
                       width: 1170px;
                     }
                     
-                    .b-0-0-0-0-848537242211727 {
+                    .b-0-0-0-0-12197828190996285 {
                       padding-top: 37px;
                       margin-left: NaNpx;
                       width: 509px;
@@ -667,7 +667,7 @@ module.exports = ->
                       width: 347px;
                     }
                     
-                    .b-0-0-0-0-0-1-9977915348145179 {
+                    .b-0-0-0-0-0-1-2000276506520604 {
                       padding-top: 3px;
                       width: 47px;
                     }
@@ -677,7 +677,7 @@ module.exports = ->
                       width: 47px;
                     }
                     
-                    .b-0-0-0-0-1-989014371105206 {
+                    .b-0-0-0-0-1-972183653122785 {
                       margin-top: 12px;
                     }
                     
@@ -716,7 +716,7 @@ module.exports = ->
                       width: 465px;
                     }
                     
-                    .b-0-0-0-0-2-0-0-0-0-0-1-603879319242669 {
+                    .b-0-0-0-0-2-0-0-0-0-0-1-15052791264923693 {
                       margin-top: 6px;
                     }
                     
@@ -740,7 +740,7 @@ module.exports = ->
                       width: 465px;
                     }
                     
-                    .b-0-0-0-0-2-0-0-0-1-0-1-9885017200008226 {
+                    .b-0-0-0-0-2-0-0-0-1-0-1-4584578938147106 {
                       margin-top: 6px;
                     }
                     
@@ -799,7 +799,7 @@ module.exports = ->
                       width: 458px;
                     }
                     
-                    .b-0-0-0-1-0-0-0-0-1-4625857288124362 {
+                    .b-0-0-0-1-0-0-0-0-1-08132829904611283 {
                       margin-top: 2px;
                     }
                     
@@ -830,7 +830,7 @@ module.exports = ->
                       width: 543px;
                     }
                     
-                    .b-0-0-0-1-1-0-0-1-03341882937611418 {
+                    .b-0-0-0-1-1-0-0-1-6279898444501908 {
                       padding-top: 3px;
                       margin-left: 10px;
                       width: 63px;
@@ -875,28 +875,28 @@ module.exports = ->
                 }
                 """}/>
         </span>
-        <div className="section full-width b-0-6084358244438122">
+        <div className="section full-width b-0-028255184510949327">
             <div className="column full-width layout-08353520324453712">
-                <div className="section b-0-0-0-825010684623539">
+                <div className="section b-0-0-0-43103320749911056">
                     <div className="content">
-                        <div className="column b-0-0-0-0-848537242211727">
-                            <div className="section b-0-0-0-0-0-1152949237521439">
+                        <div className="column b-0-0-0-0-12197828190996285">
+                            <div className="section b-0-0-0-0-0-32896120717969235">
                                 <div className="column text-7602901624049991">
                                     <div>Chat</div>
                                 </div>
-                                <div className="column b-0-0-0-0-0-1-9977915348145179">
-                                    <div className="section b-0-0-0-0-0-1-0-9622661869930829">
+                                <div className="column b-0-0-0-0-0-1-2000276506520604">
+                                    <div className="section b-0-0-0-0-0-1-0-7610276318702409">
                                         <div className="column text-7810793896205723" onClick={this.toggleSearch}>
                                             <div>🔍</div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="section b-0-0-0-0-1-989014371105206">
+                            <div className="section b-0-0-0-0-1-972183653122785">
                                 <div className="column layout-03296710201539099-wrapper">
                                     { this.showingSearch().map (x) =>
                                         <div className="section list-item layout-03296710201539099">
-                                            <div className="section b-0-0-0-0-1-0-0-21492073477862217">
+                                            <div className="section b-0-0-0-0-1-0-0-7025765859085975">
                                                 <input placeholder="search..." ref="::query" className="column textinput-6946118122432381" valueLink={this.linkState('query')}>
                                                     
                                                 </input>
@@ -905,22 +905,22 @@ module.exports = ->
                                     }
                                 </div>
                             </div>
-                            <div className="section b-0-0-0-0-2-05911662127061068">
+                            <div className="section b-0-0-0-0-2-6732545024337997">
                                 <div className="column layout-23726467625238">
-                                    <div className="section b-0-0-0-0-2-0-0-1912347467181863">
+                                    <div className="section b-0-0-0-0-2-0-0-019687731772014327">
                                         <div className="column layout-22314152153403244-wrapper">
                                             { this.getItems().map (item) =>
                                                 <div className="section list-item layout-22314152153403244">
-                                                    <div className="section b-0-0-0-0-2-0-0-0-0-837536990431826">
+                                                    <div className="section b-0-0-0-0-2-0-0-0-0-22265395829858692">
                                                         <div className="column layout-8029568244237453-wrapper">
-                                                            { if not item.selected then [null] else [].map (x) =>
+                                                            { (if not item.selected then [null] else []).map (x) =>
                                                                 <div className="section list-item layout-8029568244237453" onClick={=> @selectItem(item.index)}>
-                                                                    <div className="section b-0-0-0-0-2-0-0-0-0-0-0-94847867614878">
+                                                                    <div className="section b-0-0-0-0-2-0-0-0-0-0-0-14641281227010805">
                                                                         <div className="column text-3335099802352488">
                                                                             <div>{ item.title }</div>
                                                                         </div>
                                                                     </div>
-                                                                    <div className="section b-0-0-0-0-2-0-0-0-0-0-1-603879319242669">
+                                                                    <div className="section b-0-0-0-0-2-0-0-0-0-0-1-15052791264923693">
                                                                         <div className="column text-13466836605221033">
                                                                             <div>{ item.subtitle }</div>
                                                                         </div>
@@ -929,16 +929,16 @@ module.exports = ->
                                                             }
                                                         </div>
                                                     </div>
-                                                    <div className="section b-0-0-0-0-2-0-0-0-1-5876761954084357">
+                                                    <div className="section b-0-0-0-0-2-0-0-0-1-5753738883644537">
                                                         <div className="column layout-2651568634901196-wrapper">
-                                                            { if item.selected then [null] else [].map (x) =>
+                                                            { (if item.selected then [null] else []).map (x) =>
                                                                 <div className="section list-item layout-2651568634901196">
-                                                                    <div className="section b-0-0-0-0-2-0-0-0-1-0-0-864605303735561">
+                                                                    <div className="section b-0-0-0-0-2-0-0-0-1-0-0-02929835339303355">
                                                                         <div className="column text-7413130439817905">
                                                                             <div>{ item.title }</div>
                                                                         </div>
                                                                     </div>
-                                                                    <div className="section b-0-0-0-0-2-0-0-0-1-0-1-9885017200008226">
+                                                                    <div className="section b-0-0-0-0-2-0-0-0-1-0-1-4584578938147106">
                                                                         <div className="column text-37471523392014205">
                                                                             <div>{ item.subtitle }</div>
                                                                         </div>
@@ -951,11 +951,11 @@ module.exports = ->
                                             }
                                         </div>
                                     </div>
-                                    <div className="section b-0-0-0-0-2-0-1-08795256787421768">
+                                    <div className="section b-0-0-0-0-2-0-1-9650726465226132">
                                         <div className="column layout-208447725744918-wrapper">
                                             { @hasMore().map (x) =>
                                                 <div className="section list-item layout-208447725744918" onClick={@showMore}>
-                                                    <div className="section b-0-0-0-0-2-0-1-0-0-41262660359522774">
+                                                    <div className="section b-0-0-0-0-2-0-1-0-0-9263209132180792">
                                                         <div className="column text-8387807214166969">
                                                             <div>Show More</div>
                                                         </div>
@@ -968,17 +968,17 @@ module.exports = ->
                             </div>
                         </div>
                         <div className="column layout-9589062156155705">
-                            <div className="section b-0-0-0-1-0-8588076707117824">
+                            <div className="section b-0-0-0-1-0-8243232399775267">
                                 <div className="column layout-15342953731305897">
-                                    <div className="section b-0-0-0-1-0-0-0-6285398279398746">
+                                    <div className="section b-0-0-0-1-0-0-0-9226055023096911">
                                         <div className="column layout-5435412819497287-wrapper">
                                             { @state.current_chat.map (message) =>
                                                 <div className="section list-item layout-5435412819497287">
-                                                    <div className="section b-0-0-0-1-0-0-0-0-0-6056073992196933">
+                                                    <div className="section b-0-0-0-1-0-0-0-0-0-41716013166406407">
                                                         <div className="column layout-5799315865151584-wrapper">
                                                             { (if not message.isSent then [null] else []).map (x) =>
                                                                 <div className="section list-item layout-5799315865151584">
-                                                                    <div className="section b-0-0-0-1-0-0-0-0-0-0-0-21340566801342375">
+                                                                    <div className="section b-0-0-0-1-0-0-0-0-0-0-0-4424378035653356">
                                                                         <img src="https://ucarecdn.com/c82a8181-9ce5-4733-8b34-dc4bc32d8be5/" className="column image-5310311480425298" /> 
                                                                         <div className="column text-0009718092624098063">
                                                                             <div>&nbsp; &nbsp; { message.text }</div>
@@ -988,11 +988,11 @@ module.exports = ->
                                                             }
                                                         </div>
                                                     </div>
-                                                    <div className="section b-0-0-0-1-0-0-0-0-1-4625857288124362">
+                                                    <div className="section b-0-0-0-1-0-0-0-0-1-08132829904611283">
                                                         <div className="column layout-2984442999586463-wrapper">
                                                             { (if message.isSent then [null] else []).map (x) =>
                                                                 <div className="section list-item layout-2984442999586463">
-                                                                    <div className="section b-0-0-0-1-0-0-0-0-1-0-0-7631913979608429">
+                                                                    <div className="section b-0-0-0-1-0-0-0-0-1-0-0-4191677849148472">
                                                                         <div className="column text-48297540191560984">
                                                                             <div>{ message.text } &nbsp;</div>
                                                                         </div>
@@ -1008,14 +1008,14 @@ module.exports = ->
                                     </div>
                                 </div>
                             </div>
-                            <div className="section b-0-0-0-1-1-9442490039378875">
+                            <div className="section b-0-0-0-1-1-426705684389707">
                                 <div className="column layout-6622050677026254">
-                                    <div className="section b-0-0-0-1-1-0-0-711559638718885">
+                                    <div className="section b-0-0-0-1-1-0-0-2549074792621353">
                                         <input ref="::newmessage" className="column textinput-7399486333597451" valueLink={this.linkState('newmessage')}>
                                             
                                         </input>
-                                        <div className="column b-0-0-0-1-1-0-0-1-03341882937611418">
-                                            <div className="section b-0-0-0-1-1-0-0-1-0-4435203258140934">
+                                        <div className="column b-0-0-0-1-1-0-0-1-6279898444501908">
+                                            <div className="section b-0-0-0-1-1-0-0-1-0-21634116236127676">
                                                 <div className="column text-3622985146380884" onClick={@send}>
                                                     <div>SEND</div>
                                                 </div>
