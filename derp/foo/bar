@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <%= csrf_meta_tags %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track' => false %>
+    <meta name="viewport" content="user-scalable=no,width=device-width" />
+    <script>
+    
+    </script>
+    <style>
+        * {
+        box-sizing: border-box;
+    }
+    
+    body {
+        margin: 0;
+    }
+    
+    button:hover {
+        cursor: pointer;
+    }
+    
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .pd46-text-4 {
+      min-height: 299px;
+      margin-left: 0%;
+      width: 307px;
+      background: rgb(144, 144, 236);
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      color: rgb(255, 255, 255);
+      font-size: 14px;
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none;
+      text-align: left;
+      word-wrap: break-word;
+    }
+    
+    .pd46-0-0-0-0-0 {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      margin-top: 2px;
+    }
+    
+    .pd46-layout-6 {
+      padding-bottom: 121px;
+      display: flex;
+      flex-direction: column;
+      margin-left: 14.948453608247423%;
+      width: 31.649484536082472%;
+      background: rgb(228, 228, 228);
+    }
+    
+    .pd46-undetermined-0 {
+      min-height: 224px;
+      margin-left: 0%;
+      width: 100%;
+    }
+    
+    .pd46-0-0-0-1-0 {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      margin-top: 121px;
+    }
+    
+    .pd46-layout-7 {
+      padding-bottom: 77px;
+      display: flex;
+      flex-direction: column;
+      margin-left: 15.257731958762887%;
+      width: 22.061855670103093%;
+      background: #E4E4E4;
+    }
+    
+    .pd46-0-0-0 {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      margin-top: 0px;
+    }
+    
+    .pd46-layout-1 {
+      padding-bottom: 0px;
+      display: flex;
+      flex-direction: column;
+      margin-left: 0%;
+      width: 100%;
+      background: rgb(158, 158, 158);
+    }
+    
+    .pd46-0 {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      margin-top: 165px;
+    }
+    
+    .pd46 {
+      display: flex;
+      flex-direction: column;
+    }
+    </style>
+</head>
+<body class="pd46">
+    <div class="pd46-0">
+        <div class="pd46-layout-1">
+            <div class="pd46-0-0-0">
+                <div class="pd46-layout-6">
+                    <div class="pd46-0-0-0-0-0">
+                        <div class="pd46-text-4">
+                            <div>foobar</div><div><br></div><div>baz!</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pd46-layout-7">
+                    <div class="pd46-0-0-0-1-0">
+                        <div class="pd46-undetermined-0">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
